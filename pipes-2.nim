@@ -1,3 +1,5 @@
+# Pipe collections
+
 proc map(list: seq[int], fn: proc(n: int): int): seq[int] =
   var result: seq[int] = @[]
 

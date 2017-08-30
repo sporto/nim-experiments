@@ -1,3 +1,6 @@
+# Pipe functions with partial application 
+# Functions take different types
+
 import "strutils"
 
 proc add(a: int, b: int): int =
