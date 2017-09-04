@@ -1,1 +1,5 @@
-nimcache
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.nim
